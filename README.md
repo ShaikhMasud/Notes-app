@@ -1,7 +1,4 @@
-Here's a professional and clear `README.md` for your **Flutter Notes App** that uses `sqflite` for local database storage and performs full CRUD operations:
-
----
-
+Apk Download link: 
 # 📝 Flutter Notes App
 
 A simple yet powerful **Notes App built with Flutter**, using the `sqflite` plugin for local data storage. The app allows users to **create**, **read**, **update**, and **delete** notes efficiently with a clean and intuitive user interface.
@@ -78,5 +75,3 @@ A simple yet powerful **Notes App built with Flutter**, using the `sqflite` plug
 This project is open-source and available under the [MIT License](LICENSE).
 
 ---
-
-Let me know if you'd like to include a download link (APK), screenshots, or a walkthrough video section!
